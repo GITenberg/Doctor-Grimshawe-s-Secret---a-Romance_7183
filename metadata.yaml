@@ -1,0 +1,35 @@
+_repo: Doctor-Grimshawe-s-Secret---a-Romance_7183
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+  editor:
+    agent_name: Hawthorne, Julian
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '675'
+    url: http://www.gutenberg.org/2009/agents/675
+    wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+description: A story involving the narrator, an archetypal mad scientist, a lovely
+  young woman, and a sexy maid creates a real science-fiction type romance. A New
+  England setting and a Gothic theme give the novel a feeling of completeness, despite
+  its lack of a true end.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7183'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: Doctor Grimshawe's Secret — a Romance
+url: http://www.gutenberg.org/ebooks/7183
