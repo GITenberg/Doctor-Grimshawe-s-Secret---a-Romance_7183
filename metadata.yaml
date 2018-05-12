@@ -1,5 +1,8 @@
 _repo: Doctor-Grimshawe-s-Secret---a-Romance_7183
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -19,6 +22,8 @@ description: A story involving the narrator, an archetypal mad scientist, a love
   young woman, and a sexy maid creates a real science-fiction type romance. A New
   England setting and a Gothic theme give the novel a feeling of completeness, despite
   its lack of a true end.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7183#Doctor-Grimshawe-s-Secret---a-Romance
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
